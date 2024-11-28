@@ -1,4 +1,4 @@
-## Data Analysis
+# Data Analysis
 ## Entries
 
 Survey Results: [Link to Google Sheets](https://docs.google.com/spreadsheets/d/1rIQzvlCis9ckmoZsYF3C4MqZAilperiZZhuewadgOP8/edit?usp=sharing)
