@@ -1,8 +1,9 @@
-# Entries
+## Data Analysis
+## Entries
 
 Survey Results: [Link to Google Sheets](https://docs.google.com/spreadsheets/d/1rIQzvlCis9ckmoZsYF3C4MqZAilperiZZhuewadgOP8/edit?usp=sharing)
 
-#Activities
+## Activities 
 ## Identifying Patterns in Results
 
 1. **Predominance of Software Engineering Students**: A large majority of the respondents are from the Software Engineering program. This may indicate a biased sample or a particular interest in mental health services from this field. To draw more generalizable conclusions, a more representative sample from all programs at UADY would be needed.
