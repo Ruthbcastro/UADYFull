@@ -1,6 +1,7 @@
 # HCI Project: UADY Full Psychological Appointment Scheduling App
 
 This repository contains the design and user experience (UX) documentation for UADY Full, an app aimed at simplifying the scheduling of psychological appointments for students at the Facultad de Matemáticas (FMAT) of the Universidad Autónoma de Yucatán (UADY). The app is designed using Figma and focuses on providing an intuitive, accessible, and personalized interface that helps students manage their mental health care more effectively.
+![Logo Psicologia Cerebro Rosa](https://github.com/user-attachments/assets/15e2dcc2-81df-47bb-9d38-410f9acb0e86)
 
 ### Project Overview
 The goal of this project is to create a user-friendly mobile application that allows students to easily book appointments with psychologists, receive reminders, and track their progress. The app will offer features like automated reminders, personalization options, and a progress-tracking system. It addresses the lack of efficient scheduling solutions and aims to provide an accessible tool for students in need of psychological support.
