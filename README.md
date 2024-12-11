@@ -4,19 +4,37 @@
 
 This repository contains the design and user experience (UX) documentation for UADY Full, an app aimed at simplifying the scheduling of psychological appointments for students at the Facultad de Matemáticas (FMAT) of the Universidad Autónoma de Yucatán (UADY). The app is designed using Figma and focuses on providing an intuitive, accessible, and personalized interface that helps students manage their mental health care more effectively.
 
-### Project Overview
-The goal of this project is to create a user-friendly mobile application that allows students to easily book appointments with psychologists, receive reminders, and track their progress. The app will offer features like automated reminders, personalization options, and a progress-tracking system. It addresses the lack of efficient scheduling solutions and aims to provide an accessible tool for students in need of psychological support.
+## **Project Overview**
+The goal of this project is to create an easy-to-use visualization tool that enables students and psychologists to better understand treatment progress through interactive graphs. The system allows users to explore data points, apply dynamic filters, and gain insights into emotional health trends. This addresses the need for accessible tools that support mental health management and provide a clear picture of therapy outcomes.
 
-### Key Features
-- **Intuitive Interface**: Designed for easy navigation, enabling students to schedule appointments in under three steps.
-- **Automated Reminders**: Notification system that alerts students 24 hours before and 1 hour before their appointment.
-- **Personalization**: Customizable features that allow users to select preferred therapists, therapy types, and appointment times.
-- **Progress Tracking**: View and track progress through appointment history and treatment updates.
-- **Feedback System**: Students can rate and provide feedback on sessions for continuous improvement.
+## **Key Features**
+- **Interactive Exploration**:  
+  Users can click on data points within the graph to access detailed information such as:
+  - Associated treatment factor (e.g., stress, anxiety).  
+  - Date of the session.  
+  - Level or state of the selected factor.  
+  - Notes provided by the psychologist.  
 
-### Tools Used
-- **Figma**: Main tool used for designing the app interface and creating interactive prototypes.
+- **Customizable Filters**:  
+  Dynamic filters allow users to refine the graph display based on:
+  - Treatment factor (e.g., stress, anxiety).  
+  - Time range (e.g., weeks, months).  
+  - Psychologist associated with the session.
 
-### Intended Users
-- **Primary Audience**: Students from the Facultad de Matemáticas (FMAT), UADY, who are in need of psychological support.
-- **Other Potential Users**: Students who face mental health challenges, such as anxiety, depression, or stress, and are seeking a simple and efficient way to book psychological appointments.
+- **Real-Time Updates**:  
+  The graph updates instantly when filters are applied, ensuring a seamless user experience.
+
+## **Tools Used**
+- **Figma**:  
+  The primary tool for designing and prototyping the interface, allowing for interactive usability testing.
+
+## **Intended Users**
+- **Primary Audience**:  
+  Students at FMAT, UADY, who want to track their psychological treatment progress.  
+- **Other Potential Users**:  
+  Psychologists or institutions managing mental health data who require a clear, visual representation of treatment outcomes.
+
+## **Purpose**
+This project is aimed at simplifying the analysis of psychological treatment data, providing students and psychologists with a user-friendly tool to monitor emotional health over time. By combining intuitive design and efficient functionality, this system contributes to better mental health outcomes and data-driven insights.
+
+Feel free to explore, contribute, or suggest improvements for this project through discussions or pull requests! 🚀
